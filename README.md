@@ -43,5 +43,7 @@ LINK_TYPE | LINK_NAME            | LINK
 <b>LINK_NAME</b>: This will be displayed to the right of the icon. For example: Lynda or Lynda\<br/\>(Mike Meyers).<br/>
 <b>LINK</b>: The URL to the resource.<br/>
 
-Before submitting a link, please ensure that it is the most generic form. For example, if I click on a link to open uCertify, I may be taken to https://lrps.wgu.edu/provision/123456789 or https://wgu.ucertify.com/?func=load_course&course=WGU-220-902-complete&class_code=00000&chapter_no=1 both of these links are more complicated than they need to be or may not work for everyone.
-Instead, shorten the link to https://wgu.ucertify.com/?func=load_course&course=WGU-220-902-complete
+Before submitting a link, please ensure that it is the most generic form. For example, if I click on a link to open uCertify, I may be taken to https://wgu.ucertify.com/?func=load_course&course=WGU-220-902-complete&class_code=00000&chapter_no=1 . This link has more information that it needs to have and may bring the user to a specific part of the course instead of the course overall. Instead, shorten the link to https://wgu.ucertify.com/?func=load_course&course=WGU-220-902-complete
+
+Additionally, WGU links to materials via a provision link that looks something like this: https://lrps.wgu.edu/provision/123456789 <br/>
+At the time I'm writing this, I believe those links to be universal and think they should be fine to use.
