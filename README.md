@@ -48,19 +48,19 @@ Before submitting a link, please ensure that it is the most generic form. For ex
 Additionally, WGU links to materials via a provision link that looks something like this: https://lrps.wgu.edu/provision/123456789 <br/>
 At the time I'm writing this, I believe those links to be universal and think they should be fine to use.
 
-Accepted Resources
+Current Resources
 ==========
 LINK_TYPE
 -----
 <b>NOTE</b>: Capitilzation doesn't matter, LINK_TYPEs should be all one word. If they're not in the list below, they will have a generic book icon.
 
-acrobatiq
-cbtnuggets
-doc
-hawkes
-lynda
-pdf
-skillsoft
-testout
-ucertify
-vitalsource
+acrobatiq<br/>
+cbtnuggets<br/>
+doc<br/>
+hawkes<br/>
+lynda<br/>
+pdf<br/>
+skillsoft<br/>
+testout<br/>
+ucertify<br/>
+vitalsource<br/>
