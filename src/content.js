@@ -59,7 +59,25 @@ function checkLoaded() {
                     currImg = chrome.extension.getURL("images/testout.png");
                     break;
                   case "cbtnuggets":
-                    currImg = chrome.extension.getURL("images/cbtnuggets");
+                    currImg = chrome.extension.getURL("images/cbtnuggets.png");
+                    break;
+                  case "acrobatiq":
+                    currImg = chrome.extension.getURL("images/acrobatiq.png");
+                    break;
+                  case "doc":
+                    currImg = chrome.extension.getURL("images/doc.png");
+                    break;
+                  case "hawkes":
+                    currImg = chrome.extension.getURL("images/hawkes.png");
+                    break;
+                  case "pdf":
+                    currImg = chrome.extension.getURL("images/pdf.png");
+                    break;
+                  case "skillsoft":
+                    currImg = chrome.extension.getURL("images/skillsoft.png");
+                    break;
+                  case "vitalsource":
+                    currImg = chrome.extension.getURL("images/vitalsource.png");
                     break;
                   default:
                     currImg = chrome.extension.getURL("images/other.png");
@@ -86,6 +104,24 @@ function checkLoaded() {
                     break;
                   case "cbtnuggets":
                     currName = "CBT Nuggets";
+                    break;
+                  case "Acrobatiq":
+                    currName = "Acrobatiq";
+                    break;
+                  case "Doc":
+                    currName = "Document";
+                    break;
+                  case "hawkes":
+                    currName = "Hawkes Learning";
+                    break;
+                  case "pdf":
+                    currName = "PDF";
+                    break;
+                  case "skillsoft":
+                    currName = "SkillSoft";
+                    break;
+                  case "vitalsource":
+                    currName = "Vital Source";
                     break;
                   default:
                     currName = "ERROR";

@@ -1,5 +1,4 @@
 Link Type                | Link Name                  | Link
 -------------------------|----------------------------|--------------------------------------------------------------------
 uCertify                 | uCertify                   | https://wgu.ucertify.com/?func=load_course&course=WGU-ICND2-200-105
-CBT Nuggets               | CBT Nuggets                 | https://portal.cbtnuggets.com/lms/lti/learner/viewCourse/csco_200_105
-
+CBTNuggets               | CBT Nuggets                | https://portal.cbtnuggets.com/lms/lti/learner/viewCourse/csco_200_105
