@@ -1,17 +1,14 @@
 var waitTime = setInterval(checkLoaded, 500);
-clearInterval(waitTime);
 
 chrome.extension.onMessage.addListener(function(request, sender, response) {
-  if (request.type === 'getDoc') {
+  if (request.type === 'getQuickLinks') {
     waitTime = setInterval(checkLoaded, 500);
   }
-
   return true;
 });
 
 function checkLoaded() {
-  if (document.getElementsByClassName("responsive--hidden--sm responsive--hidden--xs ng-scope").length > 0)
-  {
+  if (document.getElementsByClassName("responsive--hidden--sm responsive--hidden--xs ng-scope").length > 0) {
     clearInterval(waitTime);
     if (document.getElementsByClassName("wguplus_accordion").length < 1) {
       var myButton = document.createElement("button");
@@ -108,7 +105,6 @@ function checkLoaded() {
 
           for (i = 0; i < linkAddrArr.length; i++) {
             if (linkTypeArr[i] != "ERROR" && linkNameArr[i] != "ERROR" && linkAddrArr[i] != "ERROR") {
-
               maxNameLen = 11;
 
               var fontSize = 100;
