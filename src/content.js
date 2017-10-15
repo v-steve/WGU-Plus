@@ -58,6 +58,9 @@ function checkLoaded() {
                   case "labsim":
                     currImg = chrome.extension.getURL("images/testout.png");
                     break;
+                  case "cbtnuggets":
+                    currImg = chrome.extension.getURL("images/cbtnuggets");
+                    break;
                   default:
                     currImg = chrome.extension.getURL("images/other.png");
                     break;
@@ -80,6 +83,9 @@ function checkLoaded() {
                   case "testout":
                   case "labsim":
                     currName = "Test Out";
+                    break;
+                  case "cbtnuggets":
+                    currName = "CBT Nuggets";
                     break;
                   default:
                     currName = "ERROR";

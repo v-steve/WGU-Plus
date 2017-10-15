@@ -21,10 +21,7 @@
       "css": ["style.css"]
   }],
   "web_accessible_resources": [
-    "images/ucertify.png",
-    "images/lynda.png",
-    "images/other.png",
-    "images/testout.png",
+    "images/*.png",
     "links/*.txt"
   ],
   "permissions": [
