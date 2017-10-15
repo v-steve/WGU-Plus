@@ -3,3 +3,8 @@ chrome.tabs.onUpdated.addListener(function (tabId, changeInfo, tab) {
     chrome.tabs.sendMessage(tabId, {type: 'getQuickLinks'});
   }
 });
+
+chrome.browserAction.onClicked.addListener(function(tab) {
+  var win = window.open("https://github.com/bamhm182/WGU-Plus", "_blank");
+  win.focus();
+});
