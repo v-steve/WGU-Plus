@@ -1,0 +1,3 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+Acrobatiq                | Acrobatiq                  | https://wgu-nx.acrobatiq.com/courseware/contents/wgu_comm_feb16

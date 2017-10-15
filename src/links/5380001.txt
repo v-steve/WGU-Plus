@@ -1,0 +1,12 @@
+Link Type                | Link Name                                                     | Link
+-------------------------|---------------------------------------------------------------|--------------------------------------------------------------------
+Acrobatiq                | Acrobatiq                                                     | https://wgu-nx.acrobatiq.com/courseware/contents/wgu_C683_Natural-Science-Lab_jul08
+VitalSource              | Vital Source                                                  | https://wgu.vitalsource.com/#/books/9781256819752
+SkillSoft                | SkillSoft<br/>(Motivating Employees)                          | https://lrps.wgu.edu/provision/106400484
+SkillSoft                | SkillSoft<br/>(Generating and Evaluating Alternatives)        | https://lrps.wgu.edu/provision/106400615
+SkillSoft                | SkillSoft<br/>(Team Dynamics)                                 | http://lrps.wgu.edu/provision/752
+SkillSoft                | SkillSoft<br/>(Using Facilitation Skills as a Manager)        | https://lrps.wgu.edu/provision/106400656
+SkillSoft                | SkillSoft<br/>(Dynamics of a Positive Organizational Culture) | https://lrps.wgu.edu/provision/106400720
+SkillSoft                | SkillSoft<br/>(Coaching to Drive Performance)                 | https://lrps.wgu.edu/provision/106400792
+SkillSoft                | SkillSoft<br/>(Managing From Within: Self Empowerment)        | http://lrps.wgu.edu/provision/785
+SkillSoft                | SkillSoft<br/>(360-Degree Appraisals)                         | https://lrps.wgu.edu/provision/106399121

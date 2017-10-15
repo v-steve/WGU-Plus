@@ -1,0 +1,4 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+Hawkes                   | Hawkes                     | https://lrps.wgu.edu/provision/52896084
+PDF                      | Key Concepts               | https://drive.google.com/file/d/0B9KNZaQBrg4SRnNsdEJBaTd4Rjg/view

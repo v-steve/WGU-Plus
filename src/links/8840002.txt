@@ -1,0 +1,6 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+Hawkes                   | Hawkes                     | https://lrps.wgu.edu/provision/45255714
+PDF                      | Key Concepts               | https://web5.wgu.edu/aap/content/c278_key_concepts.pdf
+PDF                      | Word Problem Strategies    | https://web5.wgu.edu/aap/content/c278_word_problems_application_strategies.pdf
+PDF                      | Formulas                   | https://web5.wgu.edu/aap/content/c278_formula_guide.pdf

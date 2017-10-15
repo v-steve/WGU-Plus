@@ -1,0 +1,4 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+Google                   | Google Calendar            | https://calendar.google.com/calendar/embed?mode=AGENDA&height=600&wkst=1&bgcolor=%23FFFFFF&src=wgu.edu_csfja4kcp6t4kt769bpiupjjsc@group.calendar.google.com&color=%2323164E&ctz=America/Denver&pli=1
+MindEdgeOnline           | Mind Edge Online           | https://wgu.mindedgeonline.com/content.php?cid=15968

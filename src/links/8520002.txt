@@ -1,0 +1,3 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+MindEdgeOnline           | Mind Edge Online           | https://wgu.mindedgeonline.com/content.php?cid=41197

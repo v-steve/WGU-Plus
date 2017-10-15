@@ -1,0 +1,6 @@
+Link Type                | Link Name                                        | Link
+-------------------------|--------------------------------------------------|--------------------------------------------------------------------
+uCertify                 | uCertify                                         | https://wgu.ucertify.com/?func=load_course&course=WGU-data-mgmt
+Lynda                    | Lynda<br/>(Foundations of Programming Databases) | https://www.lynda.com/Access-tutorials/Foundations-Programming-Databases/412845-2.html
+Lynda                    | Lynda<br/>(MySQL Essential Training)             | https://www.lynda.com/MySQL-tutorials/MySQL-Essential-Training/139986-2.html
+Youtube                  | Youtube<br/>(MEC Database Fundamentals)          | https://www.youtube.com/watch?v=fhaelyEnmIU

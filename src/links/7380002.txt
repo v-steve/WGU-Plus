@@ -1,0 +1,4 @@
+Link Type                | Link Name                           | Link
+-------------------------|-------------------------------------|--------------------------------------------------------------------
+CodeAcademy              | Code Academy<br/>Python             | http://www.codecademy.com/tracks/python
+Lynda                    | Lynda<br/>(Programming Foundations) | https://www.lynda.com/Programming-Foundations-tutorials/Welcome/83603/90426-4.html
