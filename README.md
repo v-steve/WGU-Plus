@@ -1,4 +1,4 @@
-WGU+ Chrome extension
+WGU+ Chrome Extension
 ==========
 
 Installing
@@ -39,7 +39,7 @@ Resources are added to a <CLASS_ID>.txt file in the links folder.
 Within this file, you will find each resource on its own line in the following format:<br/>
 LINK_TYPE | LINK_NAME            | LINK
 
-<b>LINK_TYPE</b>: uCertify, Lynda, LabSim, or TestOut have icons built in. Any other <LINK_TYPE> will have a book as the icon.<br/>
+<b>LINK_TYPE</b>: The type of resource you are adding. The resource should be all one word. Examples are provided below.<br/>
 <b>LINK_NAME</b>: This will be displayed to the right of the icon. For example: Lynda or Lynda\<br/\>(Mike Meyers).<br/>
 <b>LINK</b>: The URL to the resource.<br/>
 
@@ -47,3 +47,20 @@ Before submitting a link, please ensure that it is the most generic form. For ex
 
 Additionally, WGU links to materials via a provision link that looks something like this: https://lrps.wgu.edu/provision/123456789 <br/>
 At the time I'm writing this, I believe those links to be universal and think they should be fine to use.
+
+Accepted Resources
+==========
+LINK_TYPE
+-----
+<b>NOTE</b>: Capitilzation doesn't matter, LINK_TYPEs should be all one word. If they're not in the list below, they will have a generic book icon.
+
+acrobatiq
+cbtnuggets
+doc
+hawkes
+lynda
+pdf
+skillsoft
+testout
+ucertify
+vitalsource
