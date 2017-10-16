@@ -59,6 +59,7 @@ cbtnuggets<br/>
 doc<br/>
 hawkes<br/>
 lynda<br/>
+mindedgeonline<br/>
 pdf<br/>
 skillsoft<br/>
 testout<br/>
