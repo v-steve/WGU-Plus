@@ -1,0 +1,3 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+MindEdgeOnline           | MindEdge Online           | https://lrps.wgu.edu/provision/111966817

@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "WGU+",
   "short_name": "WGU+",
-  "version": "0.34",
+  "version": "0.35",
   "description": "A plugin to quickly show resources available for WGU classes",
   "icons": {
     "16": "icons/16.png",
@@ -21,10 +21,7 @@
       "css": ["style.css"]
   }],
   "web_accessible_resources": [
-    "images/ucertify.png",
-    "images/lynda.png",
-    "images/other.png",
-    "images/testout.png",
+    "images/*.png",
     "links/*.txt"
   ],
   "permissions": [
