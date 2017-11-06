@@ -1,4 +1,4 @@
 Link Type                | Link Name                  | Link
 -------------------------|----------------------------|--------------------------------------------------------------------
-uCertify                 | uCertify                   | https://wgu.ucertify.com/?func=load_course&course=WGU-N10-006-complete
+uCertify                 | uCertify                   | https://lrps.wgu.edu/provision/63987607
 LabSim                   | LabSim                     | http://lrps.wgu.edu/provision/6147901
