@@ -8,6 +8,8 @@ uCertify                 | Chapter 5:<br>Indexes              | https://lrps.wgu
 uCertify                 | Chapter 6:<br>Normalization        | https://lrps.wgu.edu/provision/112257984
 Lynda                    | Lynda<br/>(SQL Tutorials)          | https://www.lynda.com/SQL-tutorials/Welcome/548044/635452-4.html
 Panopto                  | Performance Assessment Help        | https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2be2eae6-d234-481d-90eb-111ef73c9a49
+Panopto                  | Complex Joins Help                 | https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8d85fa40-b3d8-48b9-8e99-751915e09d5b
+Panopto                  | Recorded Cohorts                   | https://sites.google.com/a/wgu.edu/c170---data-management-applications/session-recordings
 SQLFiddle                | SQL Fiddle                         | http://sqlfiddle.com/
 Software                 | Visio Professional 2016<br>(Free)  | https://wgudreamspark.onthehub.com/WebStore/OfferingDetails.aspx?o=9c575a63-1c62-e511-9410-b8ca3a5db7a1&pmv=00000000-0000-0000-0000-000000000000
 Lynda                    | Install MySQL (Windows)            | https://www.lynda.com/PHP-tutorials/Install-MySQL-Windows/537759/585181-4.html
