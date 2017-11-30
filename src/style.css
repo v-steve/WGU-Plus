@@ -2,7 +2,7 @@ button.wguplus_accordion {
     background-color: #6eaac2;
     color: #fff;
     cursor: pointer;
-    padding: 3px;
+    padding: 3px 3px 3px 6px;
     width: 85%;
     margin: 20px;
     margin-bottom: 5px;
@@ -10,8 +10,10 @@ button.wguplus_accordion {
     border: none;
     outline: none;
     transition: 0.4s;
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 110%;
+    font-family: Lato, Futura WGU, sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    text-transform: capitalize;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -46,4 +48,14 @@ td.wguplus_td_title {
   padding: 0 15px 0 0;
   text-align: center;
   vertical-align: center;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('https://staticui.wgu.edu/global/fonts/lato-black.ttf');
+}
+
+@font-face {
+    font-family: "Futura WGU";
+    src: url('https://staticui.wgu.edu/global/fonts/futura/normal/c2a69697-4f06-4764-abd4-625031a84e31.ttf');
 }
