@@ -2,3 +2,6 @@ Link Type                | Link Name                  | Link
 -------------------------|----------------------------|--------------------------------------------------------------------
 VitalSource              | Vital Source               | https://wgu.vitalsource.com/#/books/9781269745222
 PDF                      | Coaching Report Guide      | https://web5.wgu.edu/aap/content/coaching_report_guide_rev_2016jun01.pdf
+PDF                      | World Regional Geography   | https://lrps.wgu.edu/provision/30822277
+PDF                      | Introduction To Geography  | http://lrps.wgu.edu/provision/28679361
+Other                    | Visual World Atlas         | https://lrps.wgu.edu/provision/30742741
