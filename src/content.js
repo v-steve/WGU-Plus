@@ -111,6 +111,9 @@ function checkLoaded() {
                                       case "vitalsource":
                                           currImg = chrome.extension.getURL("images/vitalsource.png");
                                           break;
+                                      case "youtube":
+                                          currImg = chrome.extension.getURL("images/youtube.png");
+                                          break;
                                       default:
                                           currType = "Generic";
                                           currImg = chrome.extension.getURL("images/other.png");
@@ -158,6 +161,9 @@ function checkLoaded() {
                                           break;
                                       case "vitalsource":
                                           currName = "Vital Source";
+                                          break;
+                                      case "youtube":
+                                          currName = "YouTube Video";
                                           break;
                                       default:
                                           currName = "Generic";
