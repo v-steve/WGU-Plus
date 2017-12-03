@@ -12,7 +12,7 @@ Description
 -----
 
 This chrome extension gives you a "Quick Links" option on the right your current course's pages. This appears directly above the Course Mentor/Announcements/etc options.
-Once your course has been added to the extension, you will see quick links to uCertify, Lynda, SimLab, and other relevent study material.
+Once your course has been added to the extension, you will see quick links to uCertify, Lynda, SimLab, and other relevant study material.
 
 <img src="https://github.com/bamhm182/WGU-Plus/blob/master/screenshots/WGU%2BExample.jpg"/>
 
@@ -26,8 +26,8 @@ If you find any, please let us know: [Issue Tracker](https://github.com/bamhm182
 Contributing
 -----
 
-If your class is not already added, or if you would like to add additional resources, please clone this repository, make your changes, and request a comit.
-If you are unfamiliar with Git, feel free to open an Issue with information about the resource you would like to add.
+If your class is not already added, or if you would like to add additional resources, please clone this repository, make your changes, and create a Pull Request.
+If you are unfamiliar with Git, feel free to open an Issue with information about the changes you want to make.
 
 Resources are added to a <CLASS_ID>.txt file in the links folder.
 
@@ -43,7 +43,7 @@ LINK_TYPE | LINK_NAME            | LINK
 <b>LINK_NAME</b>: This will be displayed to the right of the icon. For example: Lynda or Lynda\<br/\>(Mike Meyers).<br/>
 <b>LINK</b>: The URL to the resource.<br/>
 
-If the class comes directly from WGU (For example, uCertify), please use the provision link. Directly linking to the class in uCertify seems to result in uCertify returning the demo version of
+If the class comes directly from WGU (for example, uCertify), please use the provision link. Directly linking to the class in uCertify seems to result in uCertify returning the demo version of
 the class, regardless of whether or not you're already enrolled in the full version of the class.
 
 Before submitting a link, please ensure that it is the most generic form. For example, if I click on a video in Lynda, I may be taken to https://www.lynda.com/SQL-tutorials/Explore-DB-Browser/548044/635454-4.html?srchtrk=index%3a1%0alinktypeid%3a2%0aq%3asql%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2. This link has more information that it needs to have and may bring the user to a specific part of the video instead of the series overall. Instead, provide the generic link to the series overall, for example: https://www.lynda.com/SQL-tutorials/Learning-SQL-Programming/548044-2.html.
@@ -68,3 +68,4 @@ skillsoft<br/>
 testout<br/>
 ucertify<br/>
 vitalsource<br/>
+youtube<br/>

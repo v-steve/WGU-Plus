@@ -1,3 +1,5 @@
-Link Type                | Link Name                  | Link
--------------------------|----------------------------|--------------------------------------------------------------------
-MindEdgeOnline           | Mind Edge Online           | https://wgu.mindedgeonline.com/content.php?cid=41197
+Link Type                | Link Name                           | Link
+-------------------------|-------------------------------------|--------------------------------------------------------------------
+MindEdgeOnline           | Mind Edge Online                    | https://wgu.mindedgeonline.com/content.php?cid=41197
+Doc                      | Course Mentor Study Worksheet       | http://bit.ly/1fvmjJO
+Youtube                  | Acronyms for Themes Covered in C100 | https://www.youtube.com/watch?v=ZUsjP1dufR8

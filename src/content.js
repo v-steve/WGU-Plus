@@ -111,6 +111,9 @@ function checkLoaded() {
                                       case "vitalsource":
                                           currImg = chrome.extension.getURL("images/vitalsource.png");
                                           break;
+                                      case "youtube":
+                                          currImg = chrome.extension.getURL("images/youtube.png");
+                                          break;
                                       default:
                                           currType = "Generic";
                                           currImg = chrome.extension.getURL("images/other.png");
@@ -158,6 +161,9 @@ function checkLoaded() {
                                           break;
                                       case "vitalsource":
                                           currName = "Vital Source";
+                                          break;
+                                      case "youtube":
+                                          currName = "YouTube Video";
                                           break;
                                       default:
                                           currName = "Generic";
@@ -212,8 +218,8 @@ function checkLoaded() {
 
                           //Build the row using information from the appropriate arrays
                           var myRow = document.createElement("tr");
-                          myRow.innerHTML = "<td class='wguplus_td_image'><a href='" + linkAddrArr[i] + "'><img src='" + linkImgArr[i] + "' width='50' height='50'></a></td>" +
-                              "<td class='wguplus_td_title'><a href='" + linkAddrArr[i] + "'><span style='font-size:" + fontSize + "%;'>" + linkNameArr[i] + "</span></a></td>";
+                          myRow.innerHTML = "<td class='wguplus_td_image'><a target='_blank' href='" + linkAddrArr[i] + "'><img src='" + linkImgArr[i] + "' width='50' height='50'></a></td>" +
+                              "<td class='wguplus_td_title'><a target='_blank' href='" + linkAddrArr[i] + "'><span style='font-size:" + fontSize + "%;'>" + linkNameArr[i] + "</span></a></td>";
                           myTable.append(myRow);
                       }
                   }
