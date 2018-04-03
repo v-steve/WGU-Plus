@@ -1,0 +1,4 @@
+Link Type                | Link Name                | Link
+-------------------------|--------------------------|--------------------------------------------------------------------
+McGraw-Hill              | McGraw-Hill Education    | https://lrps.wgu.edu/provision/34594190
+Panopto                  | Competency Review Videos | https://wgu.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?#folderID=%220c8dac6f-5e54-4996-880f-79ce827250f9%22&folderSets=3
