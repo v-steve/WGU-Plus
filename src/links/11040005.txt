@@ -1,0 +1,4 @@
+Link Type                | Link Name                  | Link
+-------------------------|----------------------------|--------------------------------------------------------------------
+uCertify                 | uCertify                   | https://lrps.wgu.edu/provision/122394265
+CBTNuggets               | CBT Nuggets                | https://lrps.wgu.edu/provision/104597809
