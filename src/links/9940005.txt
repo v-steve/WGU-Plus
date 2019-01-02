@@ -1,0 +1,11 @@
+Link Type                | Link Name                   | Link
+-------------------------|-----------------------------|--------------------------------------------------------------------
+WebTexts (Soomo)         | ITProTV Videos              | https://lrps.wgu.edu/provision/115175619
+Vital Source             | Course Ebook                | https://lrps.wgu.edu/provision/113544670
+Udemy                    | Udemy Paid Practice Tests   | https://www.udemy.com/computer-hacking-forensic-investigator-version-9-practice/
+Cybrary                  | Free Forensics Course       | https://www.cybrary.it/course/computer-hacking-forensics-analyst/
+PDF                      | ITPoTV Instructor Notes     | https://s3.amazonaws.com/assets.soomopublishing.com/courses/WGU/C702_Forensics_and_Network_Intrusion/ITProTV_instructor_notes_ALL_CHFI_v9.pdf
+PDF                      | Instructor Notes            | https://s3.amazonaws.com/assets.soomopublishing.com/courses/WGU/C702_Forensics_and_Network_Intrusion/Course_Notes.pdf
+PDF                      | Study Guide by Rob Routt    | https://srm--c.na60.visual.force.com/apex/coursearticle?Id=kA00c000001DXjnCAG
+Excel                    | Study Guide by CDJ          | https://srm--c.na60.content.force.com/servlet/servlet.FileDownload?retURL=https%3A%2F%2Fsrm--c.na60.visual.force.com%2Fapex%2Fapex%2FCommonsExpandedChatter%3FgroupId%3D0F9a0000000PhhHCAS&file=00P0c000013xiYeEAI&_CONFIRMATIONTOKEN=VmpFPSxNakF4T0MweE1TMHlPVlF3TkRveE5UbzBPUzR6T1RWYSxDd2tXMVQ2YjZaZE9QVGJ0WlFrZkFNLFlUQmhOamht&common.udd.actions.ActionsUtilORIG_URI=%2Fservlet%2Fservlet.FileDownload
+Panopto                  | C702 ANSI Webinar Recording | https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93950831-f847-4ba7-9cd1-a92700fbe0b2
