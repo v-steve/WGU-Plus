@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "WGU+",
   "short_name": "WGU+",
-  "version": "2018.804.1045",
+  "version": "2019.102.1807",
   "description": "A plugin to quickly show resources available for WGU classes",
   "icons": {
     "16": "icons/16.png",
